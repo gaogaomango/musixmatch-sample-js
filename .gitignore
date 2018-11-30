@@ -18,4 +18,5 @@
 
 # End of https://www.gitignore.io/api/git
 
-./const.js
+.const.js
+.DS_Store
